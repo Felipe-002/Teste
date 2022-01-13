@@ -6,4 +6,12 @@ width: 100%;
 #6495ed 5%,
 #00ffff 20%,
 #008d8d 60%,
-#00cedi 95%
+#00cedi 95%}
+
+main {
+align-items: center;
+display: flex;
+height: 100vh;
+justify-content: center;
+position: relative;
+}
